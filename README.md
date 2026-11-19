@@ -11,50 +11,75 @@
 
 ## About me
 
-I'm a Cybersecurity Engineering student at **BUAP, based in Puebla, Mexico 🇲🇽**.
+I'm a Cybersecurity Engineering student at **BUAP, Puebla, Mexico 🇲🇽**, interested in finding vulnerabilities and understanding the security behind the applications we use every day.
 
-I got into cybersecurity because I wanted to understand how applications work, where they can go wrong, and how to find those weaknesses. A big part of that experience has been through bug bounty hunting, where I've submitted **54 reports on HackerOne**.
+I've spent time participating in Bug Bounty programs, primarily through HackerOne, where I've submitted **54 vulnerability reports and received rewards for reported findings**.
 
-I also enjoy building things for the web. I've worked on websites for businesses and professional services, as well as web applications like Foro BUAP. I like both sides of the process: building an application and figuring out how it can be broken.
+I also enjoy web development. I've built websites for businesses and professional services, as well as web applications such as Foro BUAP. I like understanding how things work from both sides: developing an application and investigating how it could be compromised.
 
-Outside of that, I use Linux daily and enjoy working with servers, infrastructure, and CTF challenges.
+My main interests are web security, penetration testing, and application security.
 
-## Featured project
+## Bug Bounty & Security Research
 
-### 🔐 Foro BUAP — Anonymous Community Forum https://foroanom.com
+### HackerOne
 
-A forum built for the BUAP community, where people can share ideas and discuss topics without having to expose their identity publicly.
+<kbd>54 REPORTS SUBMITTED</kbd> <kbd>REWARDED FINDINGS</kbd>
 
-The platform supports discussion threads, comments, replies, likes, and public or private communities.
+My Bug Bounty experience involves researching web applications, investigating unexpected behavior, identifying security weaknesses, and documenting findings through vulnerability reports.
 
-Some of the things that make this project interesting to me are the security considerations behind it:
+Some of the security topics I've worked with include:
 
+- **IDOR & Broken Access Control** — examining whether users can access resources or actions beyond their intended permissions.
+- **Authentication & Authorization** — understanding how applications identify users and enforce access restrictions.
+- **Web Application Security** — investigating application behavior, input handling, and potential attack surfaces.
+- **API Security** — analyzing requests, endpoints, and how applications handle user-controlled data.
+- **Vulnerability Reporting** — documenting findings, explaining their impact, and communicating reproducible security issues.
+
+Bug bounty has given me practical exposure to the process of going from an interesting application behavior to a documented security finding.
+
+## Featured Project
+
+### 🔐 Foro BUAP — Anonymous Community Forum
+
+An anonymous discussion platform built for the BUAP community. Users can create threads, comment, reply, interact with posts, and participate in public or private communities.
+
+Beyond the application itself, one of the main considerations in this project is how anonymity and access control are handled.
+
+**Some of its implementation details:**
 - Anonymous sessions and identity handling.
-- Access control for protected sections.
-- Server-side API routes for publishing content.
-- Rate limiting for posts and comments.
-- Database functions and security-related SQL policies.
-- Content Security Policy and session cookie protections.
+- Protected routes and server-side session validation.
+- Public and private community management.
+- Threads, nested comments, likes, and content filtering.
+- Server-side API routes and database functions.
+- Rate limiting for publishing posts and comments.
+- Content Security Policy and protected session cookies.
+- Database-level security controls.
 
-**Built with:** `Next.js` · `React` · `TypeScript` · `Supabase` · `PostgreSQL` · `SQL` · `Tailwind CSS`
+**Technologies:** `Next.js` · `React` · `TypeScript` · `Supabase` · `PostgreSQL` · `SQL` · `Tailwind CSS`
 
-## Web development
+## Web Development
 
-I also build websites for businesses and professional services. My work has included corporate websites, landing pages, service pages, and interactive interfaces.
+I also work on websites and web applications for different businesses and professional services.
 
-I enjoy working on the visual side of development too: animations, layouts, navigation, responsive design, and the small details that make a website feel complete.
+My work ranges from corporate websites and landing pages to multi-page service platforms and interactive user interfaces.
 
-## What I work with
+I enjoy taking an idea and turning it into a complete web experience, paying attention to both functionality and visual presentation.
 
-**Languages & Web**
+## Technologies & Tools
 
-`TypeScript` `JavaScript` `HTML` `CSS` `SQL`
+**Languages**
+
+`TypeScript` `JavaScript` `SQL` `HTML` `CSS`
 
 **Frontend**
 
-`React` `Next.js` `Tailwind CSS` `Framer Motion` `Three.js`
+`React` `Next.js` `Tailwind CSS`
 
-**Backend & Database**
+**UI & Interactive Development**
+
+`Framer Motion` `Three.js` `React Three Fiber`
+
+**Backend & Databases**
 
 `Supabase` `PostgreSQL` `REST APIs`
 
@@ -62,17 +87,16 @@ I enjoy working on the visual side of development too: animations, layouts, navi
 
 `Linux` `Ubuntu Server` `Azure` `SSH` `Git`
 
-## Beyond development
+## Other Experience
 
-- 🔎 Bug bounty hunting and vulnerability research.
-- 🏴 University CTF competitions.
-- 🐧 Linux and system administration.
-- 🌐 Web application and API security.
+- 🏴 **CTF competitions:** Participant in university Jeopardy-style competitions.
+- 🐧 **Linux:** Daily use and practical system administration.
+- ☁️ **Infrastructure:** Ubuntu Server configuration, Azure VMs, SSH, user and group management, file permissions, ACLs, and shared environments.
 
 ---
 
 <div align="center">
 
-**Curious about how things work. Even more curious about how they break.**
+**Curious about how things work. Driven to find out how they break.**
 
 </div>
