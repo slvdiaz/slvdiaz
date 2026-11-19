@@ -4,103 +4,103 @@
 
 **Finding vulnerabilities. Understanding attack surfaces. Strengthening security.**
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Focus-Web%20Application%20Security-181818?style=for-the-badge&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/Field-Offensive%20Security-181818?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
----
+## About
 
-## ABOUT ME
+Cybersecurity Engineering student at **BUAP · Puebla, Mexico 🇲🇽**. Focused on offensive security, web application security, and vulnerability research.
 
-I'm a Cybersecurity Engineering student at **Benemérita Universidad Autónoma de Puebla (BUAP)**, focused on offensive security, vulnerability research, and application security.
+I have hands-on experience in bug bounty hunting, investigating web application vulnerabilities, and submitting security reports. I'm particularly interested in understanding application logic, identifying weaknesses in access control, and analyzing how vulnerabilities can affect real systems.
 
-My experience includes hands-on participation in **Bug Bounty programs**, investigating web application vulnerabilities and working through vulnerability reporting workflows.
+- 🔐 **54 vulnerability reports submitted** through HackerOne.
+- 🕵️ Hands-on experience with bug bounty workflows, vulnerability investigation, and responsible reporting.
+- 🌐 Interested in web application and API security, including access control and authorization issues.
+- 🐧 Daily Linux user, with practical experience managing Linux environments and remote servers.
+- ☁️ Experience configuring Ubuntu server environments, SSH access, users, groups, permissions, and shared infrastructure.
+- 🏴 University Jeopardy-style CTF participant.
 
-I'm particularly interested in understanding how applications, APIs, operating systems, and networked environments behave under different conditions — and how weaknesses in their design or implementation can affect their security.
+## Security Experience
 
-My long-term professional interests are **Penetration Testing and Application Security**, with an ambition to work in the international cybersecurity industry.
+### 🔐 Bug Bounty & Vulnerability Research
 
----
+**54 reports submitted · HackerOne**
 
-## SECURITY EXPERIENCE
+Practical experience researching security weaknesses in web applications and working through vulnerability disclosure workflows.
 
-### Bug Bounty & Vulnerability Research
+Areas of experience and interest:
 
-<kbd>54 REPORTS SUBMITTED</kbd>
+- Web application vulnerability research
+- Access control and IDOR
+- Authentication and authorization
+- API security and request analysis
+- Vulnerability impact analysis
+- Technical documentation and responsible disclosure
 
-Practical experience participating in vulnerability disclosure programs, including research through HackerOne.
+### 🖥️ Linux & Infrastructure
 
-My work and interests in this area include:
+Hands-on experience working with Linux systems and remote infrastructure.
 
-- Investigating web application behavior and potential attack surfaces.
-- Identifying and analyzing security weaknesses.
-- Examining access control mechanisms and authorization logic.
-- Understanding vulnerability impact and documenting technical findings.
-- Working with responsible vulnerability reporting processes.
+- Linux daily environment
+- Ubuntu Server
+- SSH remote administration
+- User and group management
+- File permissions and ACLs
+- Shared environments and access management
+- Azure Virtual Machines
 
-### Security Topics
+### 🌐 Networking & Systems
 
-| Area | Topics |
-|---|---|
-| **Web Application Security** | Web vulnerabilities, attack surfaces, application behavior |
-| **Access Control** | IDOR, authentication, authorization, least privilege |
-| **API Security** | Request handling, headers, signatures, input validation, replay protection |
-| **Authentication Security** | MFA, access restrictions, account lockouts |
-| **Security Monitoring** | Logging, event tracking, rate limiting |
-| **Risk & Security Principles** | CIA triad, threats, vulnerabilities, risk analysis |
+Experience working with networking concepts and troubleshooting connectivity across different environments.
 
----
+- DNS and DHCP
+- HTTP / HTTPS
+- VPN connectivity
+- Client-server communication
+- Network troubleshooting
+- Remote access and infrastructure configuration
 
-## SYSTEMS & INFRASTRUCTURE
+## Technical Environment
 
-My technical experience also involves working with Linux environments, remote systems, and shared infrastructure.
+**Operating Systems & Infrastructure**
 
-**Linux & System Administration**
-- Daily use of Linux environments.
-- Basic Linux system administration.
-- User and group management.
-- File ownership, permissions, and access control lists (ACLs).
-- Shared directory configuration and access management.
+`Linux` · `Ubuntu Server` · `Azure`
 
-**Infrastructure & Remote Access**
-- Linux server environments.
-- SSH-based remote administration.
-- Virtual machines and cloud infrastructure.
-- Azure virtual machine deployment and configuration.
-- Git and GitHub collaboration workflows.
+**System Administration**
 
----
+`SSH` · `ACLs` · `User & Group Management` · `File Permissions`
 
-## COMPETITIVE SECURITY
+**Development & Collaboration**
 
-### Capture The Flag (CTF)
+`Git` · `GitHub` · `REST APIs` · `FastAPI`
 
-Participant in university-level **Jeopardy-style CTF competitions** across consecutive editions.
+## Areas of Interest
 
-Interested in practical security challenges involving vulnerability discovery, technical analysis, and problem-solving.
+- Application Security (AppSec)
+- Penetration Testing
+- Offensive Security
+- Bug Bounty
+- Web & API Security
+- Vulnerability Research
+- Linux & Infrastructure Security
+- Network Security
 
----
+## Competitive Security
 
-## AREAS OF INTEREST
+### 🏴 Capture The Flag
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pentesting-181818?style=flat-square" />
-  <img src="https://img.shields.io/badge/Application%20Security-181818?style=flat-square" />
-  <img src="https://img.shields.io/badge/Bug%20Bounty-181818?style=flat-square" />
-  <img src="https://img.shields.io/badge/Offensive%20Security-181818?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web%20Security-181818?style=flat-square" />
-  <img src="https://img.shields.io/badge/API%20Security-181818?style=flat-square" />
-  <img src="https://img.shields.io/badge/Linux-181818?style=flat-square" />
-  <img src="https://img.shields.io/badge/Network%20Security-181818?style=flat-square" />
-</p>
+Participant in university CTF competitions, competing in the Jeopardy format.
+
+Interested in practical security challenges, vulnerability discovery, and technical problem-solving.
 
 ---
 
 <div align="center">
 
-### THINK · INVESTIGATE · EXPLOIT · UNDERSTAND
+**THINK · INVESTIGATE · TEST · UNDERSTAND**
 
-*Security is not just about finding vulnerabilities. It's about understanding why they exist.*
+*The goal is not just to find vulnerabilities, but to understand the systems behind them.*
 
 </div>
