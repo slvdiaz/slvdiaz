@@ -1,82 +1,106 @@
-<!-- PROFILE HEADER -->
-
-<div align="center">
-
 # SALVADOR
 
 ### CYBERSECURITY · BUG BOUNTY · SECURITY RESEARCH
 
 **Finding vulnerabilities. Understanding attack surfaces. Strengthening security.**
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Focus-Web%20Application%20Security-181818?style=for-the-badge&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/Field-Offensive%20Security-181818?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Environment-Linux-181818?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-</div>
+---
+
+## ABOUT ME
+
+I'm a Cybersecurity Engineering student at **Benemérita Universidad Autónoma de Puebla (BUAP)**, focused on offensive security, vulnerability research, and application security.
+
+My experience includes hands-on participation in **Bug Bounty programs**, investigating web application vulnerabilities and working through vulnerability reporting workflows.
+
+I'm particularly interested in understanding how applications, APIs, operating systems, and networked environments behave under different conditions — and how weaknesses in their design or implementation can affect their security.
+
+My long-term professional interests are **Penetration Testing and Application Security**, with an ambition to work in the international cybersecurity industry.
 
 ---
 
-## `/ ABOUT`
+## SECURITY EXPERIENCE
 
-I'm a Cybersecurity Engineering student with practical experience in **Bug Bounty and vulnerability research**.
+### Bug Bounty & Vulnerability Research
 
-My main interests are offensive security, web application security, and understanding how vulnerabilities affect real-world systems.
+<kbd>54 REPORTS SUBMITTED</kbd>
 
-I enjoy investigating how applications behave, identifying weaknesses, and understanding the security implications behind them.
+Practical experience participating in vulnerability disclosure programs, including research through HackerOne.
 
-## `/ SECURITY EXPERIENCE`
+My work and interests in this area include:
 
-<div align="center">
+- Investigating web application behavior and potential attack surfaces.
+- Identifying and analyzing security weaknesses.
+- Examining access control mechanisms and authorization logic.
+- Understanding vulnerability impact and documenting technical findings.
+- Working with responsible vulnerability reporting processes.
 
-| **54** | **Bug Bounty** |
-|:---:|:---:|
-| Reports submitted | Hands-on vulnerability research |
+### Security Topics
 
-</div>
-
-**Areas of experience**
-- Web application vulnerability research
-- Bug bounty hunting and responsible disclosure
-- Vulnerability analysis and reporting
-- Access control and IDOR
-- API and application security
-
-## `/ AREAS OF INTEREST`
-
-| `01` | **Application Security** |
+| Area | Topics |
 |---|---|
-| `02` | **Penetration Testing** |
-| `03` | **Offensive Security** |
-| `04` | **Vulnerability Research** |
-| `05` | **Web & API Security** |
-| `06` | **Linux & Infrastructure** |
-
-## `/ BEYOND THE TERMINAL`
-
-- 🐧 Linux enthusiast and daily Linux user.
-- 🔎 Interested in security research and vulnerability discovery.
-- 🏴 CTF participant.
-- 🌐 Interested in international opportunities in Pentesting and AppSec.
+| **Web Application Security** | Web vulnerabilities, attack surfaces, application behavior |
+| **Access Control** | IDOR, authentication, authorization, least privilege |
+| **API Security** | Request handling, headers, signatures, input validation, replay protection |
+| **Authentication Security** | MFA, access restrictions, account lockouts |
+| **Security Monitoring** | Logging, event tracking, rate limiting |
+| **Risk & Security Principles** | CIA triad, threats, vulnerabilities, risk analysis |
 
 ---
 
-## `/ GITHUB ACTIVITY`
+## SYSTEMS & INFRASTRUCTURE
 
-<div align="center">
+My technical experience also involves working with Linux environments, remote systems, and shared infrastructure.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=slvdiaz&show_icons=true&hide_border=true&bg_color=00000000&title_color=9CA3AF&text_color=9CA3AF&icon_color=FFFFFF&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slvdiaz&layout=compact&hide_border=true&bg_color=00000000&title_color=9CA3AF&text_color=9CA3AF" />
+**Linux & System Administration**
+- Daily use of Linux environments.
+- Basic Linux system administration.
+- User and group management.
+- File ownership, permissions, and access control lists (ACLs).
+- Shared directory configuration and access management.
 
-</div>
+**Infrastructure & Remote Access**
+- Linux server environments.
+- SSH-based remote administration.
+- Virtual machines and cloud infrastructure.
+- Azure virtual machine deployment and configuration.
+- Git and GitHub collaboration workflows.
+
+---
+
+## COMPETITIVE SECURITY
+
+### Capture The Flag (CTF)
+
+Participant in university-level **Jeopardy-style CTF competitions** across consecutive editions.
+
+Interested in practical security challenges involving vulnerability discovery, technical analysis, and problem-solving.
+
+---
+
+## AREAS OF INTEREST
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pentesting-181818?style=flat-square" />
+  <img src="https://img.shields.io/badge/Application%20Security-181818?style=flat-square" />
+  <img src="https://img.shields.io/badge/Bug%20Bounty-181818?style=flat-square" />
+  <img src="https://img.shields.io/badge/Offensive%20Security-181818?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web%20Security-181818?style=flat-square" />
+  <img src="https://img.shields.io/badge/API%20Security-181818?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux-181818?style=flat-square" />
+  <img src="https://img.shields.io/badge/Network%20Security-181818?style=flat-square" />
+</p>
 
 ---
 
 <div align="center">
 
-**`THINK · TEST · ANALYZE · SECURE`**
+### THINK · INVESTIGATE · EXPLOIT · UNDERSTAND
 
-<sub>Cybersecurity is not just about finding vulnerabilities. It's about understanding them.</sub>
+*Security is not just about finding vulnerabilities. It's about understanding why they exist.*
 
 </div>
