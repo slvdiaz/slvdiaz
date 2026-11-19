@@ -9,98 +9,70 @@
   <img src="https://img.shields.io/badge/Field-Offensive%20Security-181818?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
-## About
+## About me
 
-Cybersecurity Engineering student at **BUAP · Puebla, Mexico 🇲🇽**. Focused on offensive security, web application security, and vulnerability research.
+I'm a Cybersecurity Engineering student at **BUAP, based in Puebla, Mexico 🇲🇽**.
 
-I have hands-on experience in bug bounty hunting, investigating web application vulnerabilities, and submitting security reports. I'm particularly interested in understanding application logic, identifying weaknesses in access control, and analyzing how vulnerabilities can affect real systems.
+I got into cybersecurity because I wanted to understand how applications work, where they can go wrong, and how to find those weaknesses. A big part of that experience has been through bug bounty hunting, where I've submitted **54 reports on HackerOne**.
 
-- 🔐 **54 vulnerability reports submitted** through HackerOne.
-- 🕵️ Hands-on experience with bug bounty workflows, vulnerability investigation, and responsible reporting.
-- 🌐 Interested in web application and API security, including access control and authorization issues.
-- 🐧 Daily Linux user, with practical experience managing Linux environments and remote servers.
-- ☁️ Experience configuring Ubuntu server environments, SSH access, users, groups, permissions, and shared infrastructure.
-- 🏴 University Jeopardy-style CTF participant.
+I also enjoy building things for the web. I've worked on websites for businesses and professional services, as well as web applications like Foro BUAP. I like both sides of the process: building an application and figuring out how it can be broken.
 
-## Security Experience
+Outside of that, I use Linux daily and enjoy working with servers, infrastructure, and CTF challenges.
 
-### 🔐 Bug Bounty & Vulnerability Research
+## Featured project
 
-**54 reports submitted · HackerOne**
+### 🔐 Foro BUAP — Anonymous Community Forum https://foroanom.com
 
-Practical experience researching security weaknesses in web applications and working through vulnerability disclosure workflows.
+A forum built for the BUAP community, where people can share ideas and discuss topics without having to expose their identity publicly.
 
-Areas of experience and interest:
+The platform supports discussion threads, comments, replies, likes, and public or private communities.
 
-- Web application vulnerability research
-- Access control and IDOR
-- Authentication and authorization
-- API security and request analysis
-- Vulnerability impact analysis
-- Technical documentation and responsible disclosure
+Some of the things that make this project interesting to me are the security considerations behind it:
 
-### 🖥️ Linux & Infrastructure
+- Anonymous sessions and identity handling.
+- Access control for protected sections.
+- Server-side API routes for publishing content.
+- Rate limiting for posts and comments.
+- Database functions and security-related SQL policies.
+- Content Security Policy and session cookie protections.
 
-Hands-on experience working with Linux systems and remote infrastructure.
+**Built with:** `Next.js` · `React` · `TypeScript` · `Supabase` · `PostgreSQL` · `SQL` · `Tailwind CSS`
 
-- Linux daily environment
-- Ubuntu Server
-- SSH remote administration
-- User and group management
-- File permissions and ACLs
-- Shared environments and access management
-- Azure Virtual Machines
+## Web development
 
-### 🌐 Networking & Systems
+I also build websites for businesses and professional services. My work has included corporate websites, landing pages, service pages, and interactive interfaces.
 
-Experience working with networking concepts and troubleshooting connectivity across different environments.
+I enjoy working on the visual side of development too: animations, layouts, navigation, responsive design, and the small details that make a website feel complete.
 
-- DNS and DHCP
-- HTTP / HTTPS
-- VPN connectivity
-- Client-server communication
-- Network troubleshooting
-- Remote access and infrastructure configuration
+## What I work with
 
-## Technical Environment
+**Languages & Web**
 
-**Operating Systems & Infrastructure**
+`TypeScript` `JavaScript` `HTML` `CSS` `SQL`
 
-`Linux` · `Ubuntu Server` · `Azure`
+**Frontend**
 
-**System Administration**
+`React` `Next.js` `Tailwind CSS` `Framer Motion` `Three.js`
 
-`SSH` · `ACLs` · `User & Group Management` · `File Permissions`
+**Backend & Database**
 
-**Development & Collaboration**
+`Supabase` `PostgreSQL` `REST APIs`
 
-`Git` · `GitHub` · `REST APIs` · `FastAPI`
+**Systems & Infrastructure**
 
-## Areas of Interest
+`Linux` `Ubuntu Server` `Azure` `SSH` `Git`
 
-- Application Security (AppSec)
-- Penetration Testing
-- Offensive Security
-- Bug Bounty
-- Web & API Security
-- Vulnerability Research
-- Linux & Infrastructure Security
-- Network Security
+## Beyond development
 
-## Competitive Security
-
-### 🏴 Capture The Flag
-
-Participant in university CTF competitions, competing in the Jeopardy format.
-
-Interested in practical security challenges, vulnerability discovery, and technical problem-solving.
+- 🔎 Bug bounty hunting and vulnerability research.
+- 🏴 University CTF competitions.
+- 🐧 Linux and system administration.
+- 🌐 Web application and API security.
 
 ---
 
 <div align="center">
 
-**THINK · INVESTIGATE · TEST · UNDERSTAND**
-
-*The goal is not just to find vulnerabilities, but to understand the systems behind them.*
+**Curious about how things work. Even more curious about how they break.**
 
 </div>
