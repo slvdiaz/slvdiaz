@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# SALVA
+# SALVADOR
 
 ### CYBERSECURITY · BUG BOUNTY · SECURITY RESEARCH
 
