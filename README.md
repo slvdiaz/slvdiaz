@@ -1,4 +1,4 @@
-<div align="center">**SALVADOR**</div>
+# SALVADOR
 
 ### CYBERSECURITY · BUG BOUNTY · SECURITY RESEARCH
 
