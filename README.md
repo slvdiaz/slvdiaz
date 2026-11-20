@@ -1,4 +1,4 @@
-# SALVADOR
+<div align="center"># SALVADOR</div>
 
 ### CYBERSECURITY · BUG BOUNTY · SECURITY RESEARCH
 
@@ -39,7 +39,7 @@ Bug bounty has given me practical exposure to the process of going from an inter
 
 ## Featured Project
 
-### 🔐 Foro BUAP — Anonymous Community Forum
+### Foro BUAP — Anonymous Community Forum https://foroanom.com
 
 An anonymous discussion platform built for the BUAP community. Users can create threads, comment, reply, interact with posts, and participate in public or private communities.
 
@@ -89,9 +89,9 @@ I enjoy taking an idea and turning it into a complete web experience, paying att
 
 ## Other Experience
 
-- 🏴 **CTF competitions:** Participant in university Jeopardy-style competitions.
-- 🐧 **Linux:** Daily use and practical system administration.
-- ☁️ **Infrastructure:** Ubuntu Server configuration, Azure VMs, SSH, user and group management, file permissions, ACLs, and shared environments.
+- **CTF competitions:** Participant in university Jeopardy-style competitions.
+- **Linux:** Daily use and practical system administration.
+- **Infrastructure:** Ubuntu Server configuration, Azure VMs, SSH, user and group management, file permissions, ACLs, and shared environments.
 
 ---
 
