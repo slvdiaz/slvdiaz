@@ -39,7 +39,7 @@ Bug bounty has given me practical exposure to the process of going from an inter
 
 ## Featured Project
 
-### Foro BUAP — Anonymous Community Forum https://foroanom.com
+### Foro BUAP — Anonymous Community Forum foroanom.com
 
 An anonymous discussion platform built for the BUAP community. Users can create threads, comment, reply, interact with posts, and participate in public or private communities.
 
@@ -86,6 +86,11 @@ I enjoy taking an idea and turning it into a complete web experience, paying att
 **Systems & Infrastructure**
 
 `Linux` `Ubuntu Server` `Azure` `SSH` `Git`
+
+## Certifications
+
+- **Qualys Certified Specialist — Qualys TotalAppSec** · *Qualys* (Nov 2026 – Nov 2028)  
+  `Credential ID: 80cad19c-658e-4777-aeb0-052fd378c71a`
 
 ## Other Experience
 
